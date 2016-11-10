@@ -1,4 +1,3 @@
-//test
 from Tkinter import *
 import pygatt.backends
 import paho.mqtt.client as mqtt
