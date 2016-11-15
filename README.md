@@ -16,7 +16,8 @@ The concept:
 
 Things used in this project:
 - Raspberry PI 3 (http://si.farnell.com/raspberry-pi/raspberrypi-modb-1gb/raspberry-pi-3-model-b/dp/2525225)
-- FlyTag FF1502 Sensor BLE (https://firefly-iot.com/product/ff1502-sensor-ble/)
+- FlyTag FF1502 Sensor BLE (Firmware revision: FlyTag_v1.1.S.zip) (https://firefly-iot.com/product/ff1502-sensor-ble/)
+If Flytag FF1502 has different firmware version, please see how to reprogram it: https://firefly-iot.com/firefly-flytag-firmware-update-ota/
 
 Optional:
 - addon board FF5002 
