@@ -1,4 +1,4 @@
-# FlyTag-FireFly-control
+# FlyTag-L-Tek-control
 
 The idea:
 The idea of this project will encourage people to make their homes more smart and more secure, to offer comfort and protection in their homes.
